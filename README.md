@@ -1,2 +1,2 @@
 # PYTORCH_MYSELF
-This is my pytorch test note book.
+This is my pytorch test notebook.
